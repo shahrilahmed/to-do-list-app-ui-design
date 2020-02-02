@@ -311,6 +311,7 @@ nav a:hover {
     flex: 100%;
     display: flex;
     align-items: flex-start;
+    flex-wrap: nowrap;
 }
 
 .featurecs img {
